@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "image": null,
+    "picture": null,
+    "url": null
+  },
+  "work": [
+    {
+      "id": "abbott-esl",
+      "company": "Abbott",
+      "location": "Remote",
+      "startDate": "2024-10",
+      "endDate": null
+    },
+    {
+      "id": "sifone-architect",
+      "company": "Sifone Company S.A.S",
+      "location": "Bogotá",
+      "startDate": "2024-08",
+      "endDate": "2024-11"
+    },
+    {
+      "id": "fullstacklabs-senior",
+      "company": "FullStack Labs",
+      "location": "Utah",
+      "startDate": "2022-10",
+      "endDate": "2024-07"
+    },
+    {
+      "id": "fullstacklabs-mid",
+      "company": "FullStack Labs",
+      "location": "Utah",
+      "startDate": "2021-07",
+      "endDate": "2022-10"
+    },
+    {
+      "id": "todo1-fullstack",
+      "company": "TODO1 Services Inc.",
+      "location": "Bogotá",
+      "startDate": "2019-01",
+      "endDate": "2021-07"
+    },
+    {
+      "id": "todo1-mobile",
+      "company": "TODO1 Services Inc.",
+      "location": "Bogotá",
+      "startDate": "2018-07",
+      "endDate": "2019-01"
+    },
+    {
+      "id": "stt-fullstack",
+      "company": "ST&T",
+      "location": "Bogotá",
+      "startDate": "2014-06",
+      "endDate": "2018-07"
+    },
+    {
+      "id": "znetworks",
+      "company": "Z Networks Group",
+      "location": "Miami",
+      "startDate": "2016-09",
+      "endDate": "2017-03"
+    },
+    {
+      "id": "soluciones360",
+      "company": "Soluciones 360°",
+      "location": "Bogotá",
+      "startDate": "2013-09",
+      "endDate": "2014-06"
+    },
+    {
+      "id": "flix",
+      "company": "Flix",
+      "location": "Bogotá",
+      "startDate": "2009-10",
+      "endDate": "2013-09"
+    },
+    {
+      "id": "formas-electricas",
+      "company": "Formas Eléctricas",
+      "location": "Chía, Cundinamarca",
+      "startDate": "2012-10",
+      "endDate": "2013-05"
+    },
+    {
+      "id": "fesneponal",
+      "company": "Fesneponal",
+      "location": "Bogotá",
+      "startDate": "2012-07",
+      "endDate": "2013-02"
+    },
+    {
+      "id": "cooefectiva",
+      "company": "Cooefectiva",
+      "location": "Bogotá",
+      "startDate": "2011-01",
+      "endDate": "2013-01"
+    },
+    {
+      "id": "sifone-support",
+      "company": "Sifone Company S.A.S",
+      "location": "Bogotá",
+      "startDate": "2008-02",
+      "endDate": "2012-06"
+    }
+  ],
+  "education": [
+    {
+      "id": "ecci-bachelor",
+      "institution": "ECCI University",
+      "location": "Bogotá",
+      "area": "Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-01",
+      "endDate": "2024-01"
+    },
+    {
+      "id": "ecci-tecnologo",
+      "institution": "ECCI University",
+      "location": "Bogotá",
+      "area": "Computer Systems Development",
+      "studyType": "Associate Degree",
+      "startDate": "2018-01",
+      "endDate": "2022-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Scrum Foundations Professional Certificate SFPC",
+      "issuer": "CertiProf",
+      "date": "2020-09"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": 9,
+      "keywords": [
+        "Java / Spring Boot",
+        "Python / FastAPI",
+        "RESTful APIs",
+        "gRPC",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "level": 9,
+      "keywords": [
+        "Microservices Architecture",
+        "Domain-Driven Design",
+        "Event-Driven Architecture",
+        "System Design",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "level": 8,
+      "keywords": [
+        "LLMs / Generative AI",
+        "RAG / Embeddings",
+        "ML Integration",
+        "AI APIs & SDKs",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": 8,
+      "keywords": [
+        "AWS",
+        "Docker & Kubernetes",
+        "CI/CD",
+        "Infrastructure as Code",
+        "Cloud Architecture"
+      ]
+    },
+    {
+      "name": "Data & Messaging",
+      "level": 8,
+      "keywords": [
+        "PostgreSQL / NoSQL",
+        "Kafka / RabbitMQ",
+        "Message Queues",
+        "Data Modeling"
+      ]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Professional", "level": 8 },
+    { "language": "Spanish", "fluency": "Native", "level": 10 }
+  ]
+}

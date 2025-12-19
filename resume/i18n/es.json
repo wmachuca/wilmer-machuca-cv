@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "label": "Ingeniero de Software Senior y Arquitecto de Software",
+    "summary": "Ingeniero de Software con experiencia en el diseño y optimización de arquitecturas backend escalables. Especializado en microservicios, APIs RESTful y sistemas distribuidos usando Python (FastAPI) y Java (Spring Boot). Experiencia en bases de datos SQL/NoSQL, despliegues cloud-native (Docker, Kubernetes, AWS) y patrones de diseño como DDD y EDA. Apasionado por la optimización del rendimiento, CI/CD, pruebas automatizadas y seguridad. Capacidad para liderar el modelado e implementación de sistemas mientras mentorizo equipos y fomento la innovación, calidad y mejora continua."
+  },
+  "work": {
+    "abbott-esl": {
+      "position": "Desarrollador Backend ESL",
+      "summary": "Desarrollador backend especializado en desarrollo de Enterprise Service Layer (ESL), construyendo e integrando servicios empresariales usando Java y el ecosistema Spring.",
+      "highlights": [
+        "Desarrollé servicios empresariales para la arquitectura Enterprise Service Layer de Abbott",
+        "Implementé soluciones backend robustas usando Java y Spring Framework",
+        "Construí y mantuve integraciones de servicios en el ecosistema de Abbott",
+        "Aseguré código de alta calidad, escalable y mantenible siguiendo estándares empresariales",
+        "Colaboré con equipos multifuncionales para entregar servicios de negocio críticos"
+      ]
+    },
+    "sifone-architect": {
+      "position": "Arquitecto de Software",
+      "summary": "Especialista en el diseño e implementación de arquitecturas basadas en microservicios, utilizando Python y FastAPI para desarrollar aplicaciones backend escalables, seguras y de alto rendimiento.",
+      "highlights": [
+        "Diseñé e implementé arquitecturas basadas en microservicios usando Python y FastAPI",
+        "Lideré análisis de requisitos, modelado de APIs RESTful e integración con bases de datos SQL y NoSQL",
+        "Desplegué servicios en infraestructuras cloud-native usando Docker y Kubernetes",
+        "Apliqué Domain-Driven Design (DDD), Event-Driven Architecture (EDA) y patrones de comunicación (gRPC, Kafka, RabbitMQ)",
+        "Impulsé adopción de mejores prácticas de desarrollo, automatización de pruebas y estrategias CI/CD",
+        "Optimicé rendimiento y aseguré que las soluciones se alineen con las necesidades del negocio"
+      ]
+    },
+    "fullstacklabs-senior": {
+      "position": "Ingeniero de Software Senior",
+      "summary": "Ingeniero de software con amplia experiencia en desarrollo backend, especializado en la arquitectura, diseño e implementación de soluciones escalables y de alto rendimiento usando Java y Spring Boot.",
+      "highlights": [
+        "Lideré análisis de requisitos, modelado de sistemas y optimización de servicios backend",
+        "Trabajé con alto nivel de independencia y eficiencia",
+        "Colaboré estrechamente con equipos multidisciplinarios",
+        "Impulsé estrategias tecnológicas, mejoras continuas y mentoría de desarrolladores",
+        "Aseguré calidad, innovación y mejores prácticas de desarrollo"
+      ]
+    },
+    "fullstacklabs-mid": {
+      "position": "Ingeniero de Software Mid-Level",
+      "summary": "Profesional de desarrollo de software con enfoque en Desarrollo Backend, especializado en la implementación y optimización de servicios y arquitecturas escalables usando Java y Spring Boot.",
+      "highlights": [
+        "Analicé requisitos y diseñé soluciones eficientes que cumplen con las necesidades del negocio",
+        "Trabajé estrechamente con clientes y equipos multidisciplinarios",
+        "Desarrollé sistemas robustos y mantenibles alineados con las mejores prácticas de la industria",
+        "Contribuí a la mejora continua de aplicaciones y optimización del rendimiento",
+        "Aseguré calidad del software mediante pruebas automatizadas y mejores prácticas de desarrollo"
+      ]
+    },
+    "todo1-fullstack": {
+      "position": "Desarrollador Full Stack",
+      "summary": "Diseñar, desarrollar y mantener aplicaciones Full Stack, con enfoque en aplicaciones móviles híbridas para Android e iOS, usando tecnologías modernas para asegurar alto rendimiento y una experiencia de usuario optimizada.",
+      "highlights": [
+        "Desarrollé y mejoré el core de la aplicación basado en Java y Spring Framework",
+        "Aseguré integración eficiente entre backend y frontend",
+        "Participé en el ciclo completo de desarrollo: planificación, diseño, implementación, pruebas y despliegue",
+        "Aseguré escalabilidad y seguridad del sistema"
+      ]
+    },
+    "todo1-mobile": {
+      "position": "Desarrollador Móvil",
+      "summary": "Diseñar, desarrollar y mantener aplicaciones híbridas para dispositivos Android e iOS usando Apache Cordova, asegurando alto rendimiento, compatibilidad y una experiencia de usuario optimizada.",
+      "highlights": [
+        "Implementé nuevas funcionalidades, corregí errores y optimicé aplicaciones",
+        "Coordiné despliegue y publicación en Google Play Store y Apple App Store",
+        "Aseguré versionado adecuado del código e integración con APIs REST",
+        "Colaboré con equipos de diseño y backend para entregar soluciones eficientes y escalables"
+      ]
+    },
+    "stt-fullstack": {
+      "position": "Desarrollador Full Stack",
+      "summary": "Diseñar, desarrollar e implementar aplicaciones web y sistemas eficientes para centrales de información crediticia, asegurando alto rendimiento, escalabilidad y seguridad.",
+      "highlights": [
+        "Participé en el ciclo completo de desarrollo de software",
+        "Utilicé tecnologías como AngularJS, Angular, Java Spring y PHP",
+        "Construí soluciones robustas optimizando la experiencia de usuario",
+        "Aseguré integridad de datos y seguridad del sistema"
+      ]
+    },
+    "znetworks": {
+      "position": "Desarrollador Senior de Aplicaciones Web",
+      "summary": "Diseñar, desarrollar y optimizar aplicaciones y sitios web, asegurando una experiencia de usuario intuitiva y eficiente.",
+      "highlights": [
+        "Implementé soluciones personalizadas desde desarrollo de interfaces web hasta integración de bases de datos",
+        "Me especialicé en implementación y personalización de plataformas CMS (WordPress, Drupal, Magento)",
+        "Aseguré rendimiento, seguridad y escalabilidad",
+        "Colaboré con equipos de diseño, marketing y desarrollo"
+      ]
+    },
+    "soluciones360": {
+      "position": "Desarrollador de Software",
+      "summary": "Analizar, diseñar y desarrollar aplicaciones a la medida utilizando PHP y Java, con enfoque en la creación e integración de APIs REST.",
+      "highlights": [
+        "Implementé soluciones basadas en SugarCRM",
+        "Aseguré escalabilidad, seguridad y eficiencia en los procesos",
+        "Gestioné el ciclo completo de desarrollo de software",
+        "Colaboré con equipos multidisciplinarios para cumplir objetivos del proyecto"
+      ]
+    },
+    "flix": {
+      "position": "Diseñador Web",
+      "summary": "Diseñar, desarrollar y optimizar aplicaciones y sitios web, asegurando su funcionalidad, rendimiento y experiencia de usuario.",
+      "highlights": [
+        "Implementé soluciones innovadoras usando tecnologías front-end y back-end",
+        "Integré bases de datos, APIs y sistemas externos según necesidades del negocio",
+        "Desarrollé y personalicé plataformas basadas en CMS (WordPress, Joomla, Drupal)",
+        "Trabajé con PHP y JavaScript, junto con frameworks y librerías modernas",
+        "Aseguré calidad del código, seguridad y escalabilidad del proyecto"
+      ]
+    },
+    "formas-electricas": {
+      "position": "Webmaster",
+      "summary": "Gestionar y optimizar el diseño, estructura y desarrollo de la tienda en línea de la empresa, asegurando una experiencia de usuario fluida y eficiente.",
+      "highlights": [
+        "Supervisé mantenimiento, actualizaciones y seguridad del sitio web",
+        "Garanticé funcionalidad, rendimiento y disponibilidad adecuada",
+        "Implementé mejoras continuas en diseño, usabilidad y características"
+      ]
+    },
+    "fesneponal": {
+      "position": "Analista de Soporte Técnico",
+      "summary": "Proporcionar asistencia técnica especializada, abordando y resolviendo efectivamente incidentes y problemas relacionados con la infraestructura TI que requieren soporte en sitio.",
+      "highlights": [
+        "Aseguré continuidad y eficiencia en la entrega de servicios tecnológicos",
+        "Cumplí niveles de servicio establecidos",
+        "Garanticé experiencia confiable para los usuarios"
+      ]
+    },
+    "cooefectiva": {
+      "position": "Analista de Soporte Técnico",
+      "summary": "Proporcionar asistencia técnica oportuna en la resolución de incidentes relacionados con hardware, redes e infraestructura TI, asegurando la continuidad operativa de los sistemas.",
+      "highlights": [
+        "Realicé mantenimiento preventivo y correctivo de equipos",
+        "Optimicé rendimiento y extendí vida útil de equipos",
+        "Colaboré en implementación de mejoras tecnológicas",
+        "Proporcioné soporte a usuarios para asegurar uso eficiente de recursos TI"
+      ]
+    },
+    "sifone-support": {
+      "position": "Analista de Soporte Técnico",
+      "summary": "Gestionar y coordinar asistencia técnica en hardware, software y comunicaciones, asegurando soporte eficiente, oportuno y de alta calidad para los usuarios de la organización.",
+      "highlights": [
+        "Resolví incidentes y optimicé procesos",
+        "Garanticé continuidad operativa de sistemas tecnológicos",
+        "Apoyé la operación del software Trebol Sifone"
+      ]
+    }
+  },
+  "education": {
+    "ecci-bachelor": {
+      "summary": "Profesional en Ingeniería de Sistemas con experiencia en diseño, desarrollo e implementación de soluciones tecnológicas. Especializado en arquitectura de software, administración de sistemas, ciberseguridad y gestión de bases de datos."
+    },
+    "ecci-tecnologo": {
+      "summary": "Tecnólogo en Desarrollo de Sistemas Informáticos con bases sólidas en programación, diseño de bases de datos y desarrollo de software. Enfocado en construir soluciones prácticas y aplicar metodologías modernas de desarrollo."
+    }
+  },
+  "certificates": {
+    "scrum-sfpc": {
+      "description": "Certificación profesional en fundamentos de Scrum y metodologías ágiles"
+    }
+  }
+}

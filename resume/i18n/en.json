@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "label": "Senior Software Engineer & Software Architect",
+    "summary": "Software Engineer with expertise in designing and optimizing scalable backend architectures. Specialized in microservices, RESTful APIs, and distributed systems using Python (FastAPI) and Java (Spring Boot). Experienced in SQL/NoSQL databases, cloud-native deployments (Docker, Kubernetes, AWS), and design patterns like DDD and EDA. Passionate about performance optimization, CI/CD, automated testing, and security. Skilled in leading system modeling and implementation while mentoring teams and fostering innovation, quality, and continuous improvement."
+  },
+  "work": {
+    "abbott-esl": {
+      "position": "ESL Backend Developer",
+      "summary": "Backend developer specialized in Enterprise Service Layer (ESL) development, building and integrating enterprise-grade services using Java and Spring ecosystem.",
+      "highlights": [
+        "Developed enterprise services for Abbott's Enterprise Service Layer architecture",
+        "Implemented robust backend solutions using Java and Spring Framework",
+        "Built and maintained service integrations across Abbott's ecosystem",
+        "Ensured high-quality, scalable, and maintainable code following enterprise standards",
+        "Collaborated with cross-functional teams to deliver critical business services"
+      ]
+    },
+    "sifone-architect": {
+      "position": "Software Architect",
+      "summary": "Specialist in the design and implementation of microservices-based architectures, using Python and FastAPI to develop scalable, secure, and high-performance backend applications.",
+      "highlights": [
+        "Designed and implemented microservices-based architectures using Python and FastAPI",
+        "Led requirements analysis, RESTful API modeling, and integration with SQL and NoSQL databases",
+        "Deployed services in cloud-native infrastructures using Docker and Kubernetes",
+        "Applied Domain-Driven Design (DDD), Event-Driven Architecture (EDA), and communication patterns (gRPC, Kafka, RabbitMQ)",
+        "Drove adoption of best development practices, test automation, and CI/CD strategies",
+        "Optimized performance and ensured solutions align with business needs"
+      ]
+    },
+    "fullstacklabs-senior": {
+      "position": "Senior Software Engineer",
+      "summary": "Software engineer with extensive experience in backend development, specializing in the architecture, design, and implementation of scalable and high-performance solutions using Java and Spring Boot.",
+      "highlights": [
+        "Led requirements analysis, system modeling, and backend service optimization",
+        "Worked with high level of independence and efficiency",
+        "Collaborated closely with multidisciplinary teams",
+        "Drove technological strategies, continuous improvements, and developer mentorship",
+        "Ensured quality, innovation, and best development practices"
+      ]
+    },
+    "fullstacklabs-mid": {
+      "position": "Mid-Level Software Engineer",
+      "summary": "Software development professional with a focus on Backend Development, specializing in the implementation and optimization of scalable services and architectures using Java and Spring Boot.",
+      "highlights": [
+        "Analyzed requirements and designed efficient solutions that meet business needs",
+        "Worked closely with clients and multidisciplinary teams",
+        "Developed robust, maintainable systems aligned with industry best practices",
+        "Contributed to continuous application improvement and performance optimization",
+        "Ensured software quality through automated testing and best development practices"
+      ]
+    },
+    "todo1-fullstack": {
+      "position": "Full Stack Developer",
+      "summary": "Design, develop, and maintain Full Stack applications, with a focus on hybrid mobile applications for Android and iOS, using modern technologies to ensure high performance and an optimized user experience.",
+      "highlights": [
+        "Developed and enhanced application core based on Java and Spring Framework",
+        "Ensured efficient integration between backend and frontend",
+        "Participated in entire development lifecycle: planning, design, implementation, testing, and deployment",
+        "Ensured scalability and security of the system"
+      ]
+    },
+    "todo1-mobile": {
+      "position": "Mobile Developer",
+      "summary": "Design, develop, and maintain hybrid applications for Android and iOS devices using Apache Cordova, ensuring high performance, compatibility, and an optimized user experience.",
+      "highlights": [
+        "Implemented new features, fixed bugs, and optimized applications",
+        "Coordinated deployment and publishing on Google Play Store and Apple App Store",
+        "Ensured proper versioning of the code and integration with REST APIs",
+        "Collaborated with design and backend teams to deliver efficient and scalable solutions"
+      ]
+    },
+    "stt-fullstack": {
+      "position": "Full Stack Developer",
+      "summary": "Design, develop, and implement web applications and efficient systems for credit information bureaus, ensuring high performance, scalability, and security.",
+      "highlights": [
+        "Participated in entire software development lifecycle",
+        "Utilized technologies such as AngularJS, Angular, Java Spring, and PHP",
+        "Built robust solutions optimizing user experience",
+        "Ensured data integrity and system security"
+      ]
+    },
+    "znetworks": {
+      "position": "Senior Web Application Developer",
+      "summary": "Design, develop, and optimize applications and websites, ensuring an intuitive and efficient user experience.",
+      "highlights": [
+        "Implemented custom solutions from web interface development to database integration",
+        "Specialized in implementation and customization of CMS platforms (WordPress, Drupal, Magento)",
+        "Ensured performance, security, and scalability",
+        "Collaborated with design, marketing, and development teams"
+      ]
+    },
+    "soluciones360": {
+      "position": "Software Developer",
+      "summary": "Analyze, design and develop custom applications using PHP and Java, with a focus on creating and integrating REST APIs.",
+      "highlights": [
+        "Implemented solutions based on SugarCRM",
+        "Ensured scalability, security and efficiency in processes",
+        "Managed complete software development cycle",
+        "Collaborated with multidisciplinary teams to meet project objectives"
+      ]
+    },
+    "flix": {
+      "position": "Web Designer",
+      "summary": "Design, develop, and optimize applications and websites, ensuring their functionality, performance, and user experience.",
+      "highlights": [
+        "Implemented innovative solutions using front-end and back-end technologies",
+        "Integrated databases, APIs, and external systems according to business needs",
+        "Developed and customized CMS-based platforms (WordPress, Joomla, Drupal)",
+        "Worked with PHP and JavaScript, along with modern frameworks and libraries",
+        "Ensured code quality, security, and project scalability"
+      ]
+    },
+    "formas-electricas": {
+      "position": "Webmaster",
+      "summary": "Manage and optimize the design, structure, and development of the company's online store, ensuring a smooth and efficient user experience.",
+      "highlights": [
+        "Oversaw maintenance, updates, and security of the website",
+        "Guaranteed proper functionality, performance, and availability",
+        "Implemented continuous improvements in design, usability, and features"
+      ]
+    },
+    "fesneponal": {
+      "position": "Technical Support Analyst",
+      "summary": "Provide specialized technical assistance, effectively addressing and resolving incidents and issues related to IT infrastructure that require on-site support.",
+      "highlights": [
+        "Ensured continuity and efficiency in delivery of technological services",
+        "Met established service levels",
+        "Guaranteed reliable experience for users"
+      ]
+    },
+    "cooefectiva": {
+      "position": "Technical Support Analyst",
+      "summary": "Provide timely technical assistance in resolving incidents related to hardware, networks, and IT infrastructure, ensuring operational continuity of systems.",
+      "highlights": [
+        "Performed preventive and corrective maintenance on equipment",
+        "Optimized performance and extended equipment lifespan",
+        "Collaborated in implementation of technological improvements",
+        "Provided user support to ensure efficient use of IT resources"
+      ]
+    },
+    "sifone-support": {
+      "position": "Technical Support Analyst",
+      "summary": "Manage and coordinate technical assistance in hardware, software, and communications, ensuring efficient, timely, and high-quality support for the organization's users.",
+      "highlights": [
+        "Resolved incidents and optimized processes",
+        "Guaranteed operational continuity of technological systems",
+        "Supported Trebol Sifone software operation"
+      ]
+    }
+  },
+  "education": {
+    "ecci-bachelor": {
+      "summary": "Systems Engineering professional with experience in designing, developing, and implementing technological solutions. Specialized in software architecture, system administration, cybersecurity, and database management."
+    },
+    "ecci-tecnologo": {
+      "summary": "Computer Systems Development technologist with solid foundations in programming, database design, and software development. Focused on building practical solutions and applying modern development methodologies."
+    }
+  },
+  "certificates": {
+    "scrum-sfpc": {
+      "description": "Professional certification in Scrum fundamentals and agile methodologies"
+    }
+  }
+}

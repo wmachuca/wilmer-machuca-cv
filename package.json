@@ -1,0 +1,37 @@
+{
+  "name": "wilmer-machuca-cv",
+  "version": "1.0.0",
+  "description": "Professional resume managed as code using JSON Resume standard",
+  "main": "build/merge.js",
+  "scripts": {
+    "build:en:senior": "node build/merge.js en senior-engineer",
+    "build:en:lead": "node build/merge.js en tech-lead",
+    "build:en:architect": "node build/merge.js en architect",
+    "build:es:senior": "node build/merge.js es senior-engineer",
+    "build:es:lead": "node build/merge.js es tech-lead",
+    "build:es:architect": "node build/merge.js es architect",
+    "pdf:en:senior": "node build/export.js en senior-engineer",
+    "pdf:en:lead": "node build/export.js en tech-lead",
+    "pdf:en:architect": "node build/export.js en architect",
+    "pdf:es:senior": "node build/export.js es senior-engineer",
+    "pdf:es:lead": "node build/export.js es tech-lead",
+    "pdf:es:architect": "node build/export.js es architect"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "json-resume",
+    "curriculum-vitae"
+  ],
+  "author": "Wilmer Machuca",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmachuca/wilmer-machuca-cv.git"
+  },
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-stackoverflow": "^2.1.0",
+    "resume-cli": "^3.0.8"
+  }
+}
