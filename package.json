@@ -15,7 +15,10 @@
     "pdf:en:architect": "node build/export.js en architect",
     "pdf:es:senior": "node build/export.js es senior-engineer",
     "pdf:es:lead": "node build/export.js es tech-lead",
-    "pdf:es:architect": "node build/export.js es architect"
+    "pdf:es:architect": "node build/export.js es architect",
+    "build:all": "npm run build:en:senior && npm run build:en:lead && npm run build:en:architect && npm run build:es:senior && npm run build:es:lead && npm run build:es:architect",
+    "pdf:all": "npm run pdf:en:senior && npm run pdf:en:lead && npm run pdf:en:architect && npm run pdf:es:senior && npm run pdf:es:lead && npm run pdf:es:architect",
+    "generate:all": "npm run build:all && npm run pdf:all"
   },
   "keywords": [
     "resume",
